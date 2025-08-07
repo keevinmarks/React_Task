@@ -104,10 +104,6 @@ docker-compose down
 
 ---
 
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ---
 
 ## 🙋‍♂️ Autor

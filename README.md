@@ -104,8 +104,6 @@ docker-compose down
 
 ---
 
----
-
 ## 🙋‍♂️ Autor
 
 **Kevin Marques**  

@@ -64,7 +64,7 @@ const Page = () => {
     //Div princiapal de retorno
     <div>
       <div className="w-full flex items-center justify-center overflow-x-hidden">
-        <div className="">
+        <div>
           <h1 className="text-center text-4xl">Lista de tarefas</h1>
           <div className="flex px-3 py-4 bg-gray-600 rounded-t-md gap-4">
             <input value={newTask} onChange={e => setNewTask(e.target.value)} type="text" className="bg-gray-400 rounded-sm text-black placeholder:text-gray-700 px-1" placeholder="Nova tarefa" />
